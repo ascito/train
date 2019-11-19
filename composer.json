@@ -1,0 +1,17 @@
+{
+    "name": "ascito/train",
+    "description": "Laravel Pack",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ASCITO",
+            "email": "contact@ascito.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+     "require": {
+        "php": "^7.2",
+		"laravel/laravel":""
+    },
+}
