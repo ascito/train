@@ -1,7 +1,7 @@
 {
     "name": "ascito/train",
     "description": "Laravel Pack",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
